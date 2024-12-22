@@ -19,7 +19,7 @@ const Navbar = () => {
             className="flex items-center"
           >
             <motion.img
-              src="https://files.oaiusercontent.com/file-LaphHvdsgmdyXLSEwp8g6T?se=2024-12-22T15%3A33%3A59Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dd81e6f2c-bb80-43b2-89c1-ef9a5dc00dc1.webp&sig=Eqs/6QPcy9p9Akav005Q7yPzZWTDw9HfQcEbCgRldBw%3D"
+              src="https://t3.ftcdn.net/jpg/06/91/25/66/360_F_691256613_uBk4GQtjh8ODDd1VWDqxroW3nllTzQwF.jpg"
               alt="Portfolio Logo"
               className="h-10 w-10 rounded-full object-cover ring-2 ring-gray-200 dark:ring-gray-700"
               whileHover={{ scale: 1.05 }}
